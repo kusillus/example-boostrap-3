@@ -1,0 +1,21 @@
+{
+  "name": "views-quantum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.19.1"
+  },
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  }
+}
